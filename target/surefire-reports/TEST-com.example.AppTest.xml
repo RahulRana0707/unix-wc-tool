@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/23.0.1/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/rahulrana/rahul/unix-wc-tool/target/surefire/surefirebooter-20241222172137307_3.jar /Users/rahulrana/rahul/unix-wc-tool/target/surefire 2024-12-22T17-21-37_210-jvmRun1 surefire-20241222172137307_1tmp surefire_0-20241222172137307_2tmp"/>
+    <property name="sun.java.command" value="/Users/rahulrana/rahul/unix-wc-tool/target/surefire/surefirebooter-20241222200801089_3.jar /Users/rahulrana/rahul/unix-wc-tool/target/surefire 2024-12-22T20-08-00_997-jvmRun1 surefire-20241222200801089_1tmp surefire_0-20241222200801089_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/rahulrana/rahul/unix-wc-tool/target/test-classes:/Users/rahulrana/rahul/unix-wc-tool/target/classes:/Users/rahulrana/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/rahulrana/rahul/unix-wc-tool/target/surefire/surefirebooter-20241222172137307_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/rahulrana/rahul/unix-wc-tool/target/surefire/surefirebooter-20241222200801089_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="23.0.1"/>

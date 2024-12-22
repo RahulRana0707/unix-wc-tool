@@ -1,5 +1,5 @@
 # Target directory (build artifacts)
-target/
+target
 
 # VS Code
 .vscode/

@@ -25,6 +25,7 @@ public class App {
 
             if (CCWC.equals(parsedCmdStr)) {
                 wcCommand.execute();
+                return;
             }
             System.err.println("Invalid command: " + parsedCmdStr);
 
