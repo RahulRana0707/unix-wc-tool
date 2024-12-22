@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.AppTest" time="0.008" tests="0" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="18"/>
+    <property name="maven.user.extensions" value="C:\Users\rr840/.m2/extensions.xml"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\rr840\unix-wc-tool\target\test-classes;C:\Users\rr840\unix-wc-tool\target\classes;C:\Users\rr840\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="maven.user.toolchains" value="C:\Users\rr840/.m2/toolchains.xml"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="maven.repo.central" value="https://repo.maven.apache.org/maven2"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="session.topDirectory" value="C:\Users\rr840\unix-wc-tool"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\rr840\AppData\Local\Temp\surefire7762660937829473873\surefirebooter-20241222142531386_3.jar C:\Users\rr840\AppData\Local\Temp\surefire7762660937829473873 2024-12-22T14-25-31_210-jvmRun1 surefire-20241222142531386_1tmp surefire_0-20241222142531386_2tmp"/>
+    <property name="maven.project.settings" value="${session.rootDirectory}/.mvn/settings.xml"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\rr840\unix-wc-tool\target\test-classes;C:\Users\rr840\unix-wc-tool\target\classes;C:\Users\rr840\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\rr840"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-07-19"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-18.0.2"/>
+    <property name="maven.user.conf" value="C:\Users\rr840/.m2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\rr840\unix-wc-tool"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.project.conf" value="${session.rootDirectory}/.mvn"/>
+    <property name="surefire.real.class.path" value="C:\Users\rr840\AppData\Local\Temp\surefire7762660937829473873\surefirebooter-20241222142531386_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="18.0.2+9-61"/>
+    <property name="user.name" value="rr840"/>
+    <property name="maven.installation.conf" value="C:\apache-maven/conf"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="maven.installation.toolchains" value="C:\apache-maven/conf/toolchains.xml"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\rr840\.m2\repository"/>
+    <property name="maven.project.extensions" value="${session.rootDirectory}/.mvn/extensions.xml"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\rr840\AppData\Local\Temp\"/>
+    <property name="maven.installation.extensions" value="C:\apache-maven/conf/extensions.xml"/>
+    <property name="java.version" value="18.0.2"/>
+    <property name="user.dir" value="C:\Users\rr840\unix-wc-tool"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-18.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Go\bin;C:\Program Files\nodejs\;C:\apache-maven\bin;C:\Users\rr840\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\rr840\AppData\Local\Programs\Python\Python310\;C:\Users\rr840\AppData\Local\Microsoft\WindowsApps;C:\Users\rr840\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2\bin;;C:\Users\rr840\AppData\Local\GitHubDesktop\bin;;C:\Users\rr840\AppData\Local\.bvm;C:\Users\rr840\go\bin;C:\Users\rr840\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="18.0.2+9-61"/>
+    <property name="maven.installation.settings" value="C:\apache-maven/conf/settings.xml"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="maven.user.settings" value="C:\Users\rr840/.m2/settings.xml"/>
+    <property name="java.class.version" value="62.0"/>
+  </properties>
+</testsuite>
