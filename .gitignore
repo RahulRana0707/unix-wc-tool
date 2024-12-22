@@ -1,0 +1,16 @@
+# Target directory (build artifacts)
+target/
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.class
+*.iml
+*.ipr
+*.iws

@@ -21,6 +21,7 @@ public class App {
         try {
             jc.parse(args);
             String parsedCmdStr = jc.getParsedCommand();
+            System.out.println("Parsed command: " + parsedCmdStr);
 
             if (CCWC.equals(parsedCmdStr)) {
                 wcCommand.execute();
